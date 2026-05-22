@@ -1,4 +1,4 @@
-House Price Prediction using Linear Regression
+#House Price Prediction using Linear Regression
 
 This project is a Machine Learning model built using Linear Regression to predict house prices based on different features like square footage, number of bedrooms, bathrooms, garage size, neighborhood quality, and year built.
 
